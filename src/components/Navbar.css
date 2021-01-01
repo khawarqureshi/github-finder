@@ -1,0 +1,18 @@
+.linkStyle {
+  color: black;
+}
+.routeStyle {
+  display: flex;
+}
+.liStyle {
+  display: inline-block;
+}
+.routeStyle .liStyle {
+  margin-right: 20px;
+}
+.liStyle:hover {
+  background-color: #6c757d;
+}
+.liStyle:visited {
+  color: white;
+}
